@@ -1,0 +1,8 @@
+Amazon.com| Johnsmith123@gmail.com| Bestbuy1
+Bestbuy.com| Johnsmith123@gmail.com| Bestbuy1
+Amazon| Johnsmith123@gmail.com| 123456
+amazon| Johnsmith123@gmail.com| 1112234
+| Johnsmith123@gmail.com| 
+| Johnsmith123@gmail.com| 
+| Johnsmith123@gmail.com| 
+| Johnsmith123@gmail.com| 
